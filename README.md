@@ -1,5 +1,4 @@
-# Download???
- https://github.com/LeagueToolkit/cslol-manager/releases
+
 
 # Windows 10+ only
  Please update to windows 10 or 11!
